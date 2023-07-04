@@ -1,0 +1,17 @@
+C:\Users\jarde\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+C:\Users\jarde\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+C:\Users\jarde\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+C:\Users\jarde\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\jarde\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\itextsharp.dll
+C:\Users\jarde\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\itextsharp.xml
+C:\Users\jarde\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.AssemblyReference.cache
+C:\Users\jarde\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
+C:\Users\jarde\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CopyComplete
+C:\Users\jarde\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+C:\Users\jarde\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
+C:\Users\jarde\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\PdfSharp.Charting.dll
+C:\Users\jarde\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\PdfSharp.dll
+C:\Users\jarde\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\PdfSharp.xml
+C:\Users\jarde\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\PdfSharp.Charting.xml
+C:\Users\jarde\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\de\PdfSharp.resources.dll
+C:\Users\jarde\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\de\PdfSharp.Charting.resources.dll
